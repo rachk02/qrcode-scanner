@@ -1,4 +1,7 @@
-# Cours de developpement mobile (android-ios) avec Monsieur Zeba
+# Cours de developpement mobile - Monsieur Zeba Muhammed
 
--Tp:
-    -Apllication de scanne QR code
+- Rq:
+  - le code seras mise à jour en fonction de l'avancement du cours
+
+- Tp:
+  - Apllication de scanne QR code
